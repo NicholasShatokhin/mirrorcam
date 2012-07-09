@@ -1,0 +1,20 @@
+Source: mirrorcam
+Section: utils
+Priority: extra
+Maintainer: Nicholas Shatokhin <n.shatokhin@gmail.com>
+Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 8.0.0), qt4-qmake, libqt4-opengl-dev, libcv-dev, libhighgui-dev, libopencv-core-dev, libopencv-highgui-dev, libopencv-imgproc-dev, libqt4-dev
+Homepage: https://launchpad.net/mirrorcam/
+Vcs-Git: https://github.com/NicholasShatokhin/mirrorcam.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/mirrorcam.git;a=summary
+
+Package: mirrorcam
+Architecture: any
+Depends: libqt4-opengl, libcv2.3, libhighgui2.3, libopencv-core2.3, libopencv-highgui2.3, libopencv-imgproc2.3, libqt4-core, libqt4-gui, libqt4-declarative
+XB-AppName: MirrorCam
+XB-Icon: icons/mirrorcam-256x256.png
+XB-Category: Utility;
+Description: This simple application allows you to turn your computer with the camera to the mirror.
+ Have you ever found themselves in a situation where you had to be a mirror,
+ but it was nowhere to take? Now, the mirror will always be at your fingertips -
+ your computer will be a mirror!

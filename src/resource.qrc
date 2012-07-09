@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>menu.qml</file>
+        <file>images/menu_bg.png</file>
+        <file>Button.qml</file>
+        <file>images/fullscreen_hover.png</file>
+        <file>images/fullscreen_normal.png</file>
+        <file>images/fullscreen_pressed.png</file>
+        <file>images/windowed_hover.png</file>
+        <file>images/windowed_normal.png</file>
+        <file>images/windowed_pressed.png</file>
+        <file>images/exit_hover.png</file>
+        <file>images/exit_normal.png</file>
+        <file>images/exit_pressed.png</file>
+        <file>images/icon16.png</file>
+        <file>images/icon32.png</file>
+        <file>images/icon64.png</file>
+        <file>images/icon128.png</file>
+        <file>images/icon256.png</file>
+        <file>images/info_hover.png</file>
+        <file>images/info_normal.png</file>
+        <file>images/info_pressed.png</file>
+        <file>images/settings_hover.png</file>
+        <file>images/settings_normal.png</file>
+        <file>images/settings_pressed.png</file>
+    </qresource>
+</RCC>

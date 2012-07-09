@@ -1,0 +1,16 @@
+Package: mirrorcam
+Version: 1.0-0extras12.04.1
+Architecture: i386
+Maintainer: Nicholas Shatokhin <n.shatokhin@gmail.com>
+Installed-Size: 1418
+Depends: libqt4-opengl, libcv2.3, libhighgui2.3, libopencv-core2.3, libopencv-highgui2.3, libopencv-imgproc2.3, libqt4-core, libqt4-gui, libqt4-declarative
+Section: utils
+Priority: extra
+Homepage: https://launchpad.net/mirrorcam/
+Description: This simple application allows you to turn your computer with the camera to the mirror.
+ Have you ever found themselves in a situation where you had to be a mirror,
+ but it was nowhere to take? Now, the mirror will always be at your fingertips -
+ your computer will be a mirror!
+Appname: MirrorCam
+Category: Utility;
+Icon: icons/mirrorcam-256x256.png

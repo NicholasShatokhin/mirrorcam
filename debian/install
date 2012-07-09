@@ -1,0 +1,4 @@
+icons/*                                 /usr/share/pixmaps/
+icons/*                                 /opt/extras.ubuntu.com/mirrorcam/icons/
+bin/*                                   /opt/extras.ubuntu.com/mirrorcam/
+debian/extras-mirrorcam.desktop         /usr/share/applications/

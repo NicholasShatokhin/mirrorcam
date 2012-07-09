@@ -1,0 +1,2 @@
+shlibs:Depends=libc6 (>= 2.1.3), libc6 (>= 2.3.6-6~), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.12.0), libopencv-core2.3, libopencv-highgui2.3, libopencv-imgproc2.3, libqt4-declarative (>= 4:4.7.0~rc1), libqt4-opengl (>= 4:4.5.3), libqtcore4 (>= 4:4.5.3), libqtgui4 (>= 4:4.5.3), libstdc++6 (>= 4.1.1), nvidia-current-updates
+misc:Depends=
