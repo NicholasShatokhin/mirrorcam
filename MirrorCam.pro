@@ -29,6 +29,4 @@ OTHER_FILES += \
     menu.qml \
     Button.qml
 
-CONFIG += link_pkgconfig
-PKGCONFIG += glib-2.0
 
